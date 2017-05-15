@@ -1,2 +1,2 @@
 # ROS
-general info for using ROS. Check WIKI
+general info for using ROS. Check the WIKI page
